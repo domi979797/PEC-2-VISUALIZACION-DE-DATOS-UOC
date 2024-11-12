@@ -1,3 +1,0 @@
-grafico_temperaturas_enero: https://drive.google.com/file/d/1sKVhq0IhNXa_jGl16TChVk4ARXdtHrhc/view?usp=sharing
-
-grafico_temperatura_media_anual: https://drive.google.com/file/d/1iQ80GV2zb_zgt4A8hpzlLUZtoVcXrWDJ/view?usp=sharing
